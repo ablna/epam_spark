@@ -1,8 +1,5 @@
 #SPARK TASK
 
-
-```
-
 During data preparation, coordinates originally stored as text strings were converted to numerical floating-point values. This process uncovered one data entry with missing latitude and/or longitude information.
 ```
 
